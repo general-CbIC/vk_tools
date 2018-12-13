@@ -1,0 +1,2 @@
+defmodule VkTools do
+end
